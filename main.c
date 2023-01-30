@@ -16,9 +16,9 @@ int main() {
   subraction = num1 - num2;
   multiplication = num1 * num2;
   division = num1 / num2;
-  printf("Addition: %d \n", addition);
-  printf("Subraction: %d \n", subraction);
-  printf("Multiplication: %d \n", multiplication);
-  printf("Division: %d \n", division);
+  printf("Addition = %d \n", addition);
+  printf("Subraction = %d \n", subraction);
+  printf("Multiplication = %d \n", multiplication);
+  printf("Division = %d \n", division);
   return 0;
 }
