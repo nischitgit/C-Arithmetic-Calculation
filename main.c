@@ -18,7 +18,7 @@ int main() {
   division = num1 / num2;
   printf("Addition = %d \n", addition);
   printf("Subraction = %d \n", subraction);
-  printf("Mulitplication  = %d \n", multiplication);
+  printf("Multiplication  = %d \n", multiplication);
   printf("Division = %d \n", division);
   return 0;
 }
