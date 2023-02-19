@@ -2,7 +2,8 @@
 // Author - @nischit_ig (Instagram)
 #include <stdio.h>
 
-int main() {
+int main()
+{
   // Vairables
   int num1, num2;
   int addition, subraction, multiplication, division;
