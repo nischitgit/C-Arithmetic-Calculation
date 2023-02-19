@@ -1,4 +1,5 @@
 // Arithmetic Calculation
+// Author - @nischit_ig (Instagram)
 #include <stdio.h>
 
 int main() {
